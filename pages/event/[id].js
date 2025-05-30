@@ -37,7 +37,7 @@ export default function EventPage() {
     return (
       <div className="text-center py-12">
         <h2 className="text-2xl font-bold mb-4">Event Not Found</h2>
-        <p className="text-gray-400 mb-6">The event you're looking for doesn't exist or has been removed.</p>
+        <p className="text-gray-400 mb-6">The event you&apos;re looking for doesn&apos;t exist or has been removed.</p>
         <Link href="/" className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition">
           Back to Home
         </Link>
